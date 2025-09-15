@@ -43,7 +43,6 @@ npm install
 npm run dev
 ```
 
-The app will be available at `http://localhost:8080`.
 
 ## Available Scripts
 
@@ -56,6 +55,4 @@ The app will be available at `http://localhost:8080`.
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
 
-This project is licensed under the MIT License.
